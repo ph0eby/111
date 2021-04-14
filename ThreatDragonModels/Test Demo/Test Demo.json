@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test Demo",
+    "owner": "ldx",
+    "description": "1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "demo",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
